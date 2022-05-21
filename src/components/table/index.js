@@ -5,7 +5,7 @@ const FetchTableData = () => {
   const [data, setData] = useState([]);
   return (
     <>
-      <div className="container mt-5">
+      <div className="m-3">
         <div className="row">
           <div className="col-12">
             <table className="table table-bordered table-striped table-sm">
